@@ -28,6 +28,11 @@ We compared stock performance by calculating the percentage change in closing pr
 ## Daily Risk vs. Return Analysis:
 Finally, we calculated the daily returns for each stock (the percentage change in price each day), then took the average of these daily returns and the standard deviation of these returns for each stock. This analysis is crucial for evaluating risk-adjusted performance. It helps to answer whether a stock’s returns are commensurate with the risk taken.
 
+## Conclusion:
+In this project, we saw how each stock performed and behaved:
 
+1. Cisco emerged as the top performer with steady gains and low volatility,
+2. Microsoft and Apple had mixed results with moderate risk (Microsoft roughly stable with slight loss, Apple declining more notably),
+3. Meta was high-risk with a significant price drop.
 
-
+Overall, this type of analysis helps to identify potential risks and rewards associated with different investments, ultimately aiding in more strategic and effective portfolio management.
